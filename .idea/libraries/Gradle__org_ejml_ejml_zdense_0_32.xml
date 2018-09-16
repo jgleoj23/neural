@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: org.ejml:ejml-zdense:0.32">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.ejml/ejml-zdense/0.32/974688062269cc8efaea112e0d106e4aac9b3167/ejml-zdense-0.32.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.ejml/ejml-zdense/0.32/16dad8b5cb235a4a14a724dd8c77d0770da35f79/ejml-zdense-0.32-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

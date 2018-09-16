@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/neural.iml" filepath="$PROJECT_DIR$/.idea/modules/neural.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/neural_main.iml" filepath="$PROJECT_DIR$/.idea/modules/neural_main.iml" group="neural" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/neural_test.iml" filepath="$PROJECT_DIR$/.idea/modules/neural_test.iml" group="neural" />
+    </modules>
+  </component>
+</project>
